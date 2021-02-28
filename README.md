@@ -4,6 +4,9 @@
 ※画像はリポジトリに入っておりません。
 再現される場合はApp.vue内に記述のある~.pngの画像を/src/assets下に置いてご利用ください。
 
+## Demo
+![demo](/demo/demo.gif)
+
 ## Project setup
 ```
 npm install
